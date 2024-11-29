@@ -11,6 +11,9 @@ Welcome to the Blogify! This is a simple yet elegant web platform designed for b
 ![About me page](imgs/img5.png)
 ![Contact us page](imgs/img6.png)
 ![FAQs page](imgs/img7.png)
+![About me page](imgs/img8.png)
+![Contact us page](imgs/img9.png)
+![FAQs page](imgs/img10.png)
 
 ### Features
 
